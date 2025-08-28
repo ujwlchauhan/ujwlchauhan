@@ -1,6 +1,6 @@
 <h2 style="font-size: 100px;" align="center"><b>👋 Hi there! I'm Ujjwal Chauhan</b></h2> <br> 
 <p align="center"> 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZpaW45c3dmbzYybWl6YTV6Z2I4b2l4YTNuaDUwZmN2c3pmMmg1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Frontend gif" width="300" height="150"/> 
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTlsNzRncHZ5am1qY3c2bzgxMDVmeG8wMjVnM3I0bGtpM243MHltZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T7Qx28nEdo9NK/giphy.gif" alt="Data analysis gif" width="300" height="150"/>
 </p> <br> 
 
 <h4 align="center" >Welcome to my GitHub profile! I'm a Frontend Developer passionate about crafting responsive, user-friendly web applications and bringing designs to life with clean, efficient code.</h3>
